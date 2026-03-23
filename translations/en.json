@@ -1,0 +1,196 @@
+{
+  "nav": {
+    "backToSite": "\u2190 Back to site"
+  },
+  "hero": {
+    "subtitle": "for the Future of Business",
+    "cta": "Book a Demo"
+  },
+  "features": {
+    "title": "What We Build",
+    "subtitle": "End-to-end automation systems powered by software development, tailored to how your business actually works.",
+    "chatbots": {
+      "title": "AI Chatbots & Virtual Assistants",
+      "desc": "Your business doesn't sleep, and neither should your support. We build intelligent conversational agents that handle customer inquiries, qualify inbound leads, book meetings, and escalate complex issues to your team, all without human intervention. Trained on your data, integrated with your CRM, and available 24/7 across web, WhatsApp, and social channels."
+    },
+    "crm": {
+      "title": "CRM & Sales Automation",
+      "desc": "Stop losing deals to slow follow-ups. We build automated sales pipelines that capture every lead, score them based on behavior and fit, trigger personalized nurture sequences, and alert your closers the moment a prospect is ready to buy. From first touch to signed contract, every step tracked, every action automated."
+    },
+    "email": {
+      "title": "Email & SMS Sequences",
+      "desc": "One-size-fits-all blasts don't convert. We design behavior-driven messaging flows that adapt to what each contact does, opens, clicks, downloads, purchases, or goes silent. The right message, on the right channel, at the right time. Fully automated, continuously optimized, and integrated with your existing tools."
+    },
+    "data": {
+      "title": "Data Pipelines & Reporting",
+      "desc": "Raw data is useless if nobody sees it. We build automated pipelines that pull data from every corner of your stack, CRMs, payment platforms, ad accounts, spreadsheets, clean it, transform it, and push it into live dashboards your team can actually use. No more Monday morning report scrambles. No more decisions based on gut feeling."
+    },
+    "leads": {
+      "title": "Lead Generation & Scoring",
+      "desc": "Finding leads is easy. Finding the right leads is the hard part. We build multi-channel prospecting systems that combine outbound outreach, inbound capture, and AI-powered scoring to surface the opportunities most likely to close. Your sales team stops chasing dead ends and starts focusing on the top 20% that drive 80% of revenue."
+    },
+    "internal": {
+      "title": "Internal Workflow Automation",
+      "desc": "Every company has dozens of repetitive internal processes that drain time, onboarding new hires, routing approvals, updating spreadsheets, sending status reports. We connect your HR tools, project management platforms, and communication channels into unified workflows that handle the busywork automatically. Your team gets their hours back."
+    },
+    "ecommerce": {
+      "title": "E-Commerce Automation",
+      "desc": "Scaling an online store means scaling operations, and that breaks fast without automation. We build systems that sync inventory across platforms, route orders to the right warehouse, trigger fulfillment notifications, handle returns, and update your accounting, all in real time. Whether you're on Shopify, Amazon, WooCommerce, or all three."
+    },
+    "api": {
+      "title": "Custom API Integrations",
+      "desc": "Your tools don't talk to each other? We fix that. If it has an API, we can connect it, CRMs, ERPs, payment gateways, legacy systems, government portals, anything. We build custom integrations that sync data bidirectionally, handle edge cases gracefully, and don't break when one system updates. No middleware bloat, no manual exports."
+    },
+    "web": {
+      "title": "Website Design & Development",
+      "desc": "Your website is your first impression, and your hardest-working salesperson. We build high-performance sites that load fast, look sharp, and convert visitors into leads. Fully integrated with your automation ecosystem so every form submission, chat interaction, and page visit feeds directly into your CRM and triggers the right follow-up."
+    },
+    "allinone": {
+      "title": "All in One",
+      "desc": "Why manage ten systems when you can have one? The All-in-One package connects every automation we offer into a single unified workflow built around your business. Lead generation feeds into your CRM. Your CRM triggers email sequences. Sequences drive bookings. Bookings update your dashboard. Everything talks to everything, and you don't lift a finger. Less manual work, fewer bottlenecks, and an operation that runs like clockwork."
+    }
+  },
+  "services": {
+    "heading": "What We Build",
+    "subtitle": "End-to-end automation systems powered by software development, tailored to how your business actually works.",
+    "chatbots": {
+      "title": "AI Chatbots & Virtual Assistants",
+      "desc": "Your business doesn't sleep, and neither should your support. We build intelligent conversational agents that handle customer inquiries, qualify inbound leads, book meetings, and escalate complex issues to your team, all without human intervention. Trained on your data, integrated with your CRM, and available 24/7 across web, WhatsApp, and social channels."
+    },
+    "crm": {
+      "title": "CRM & Sales Automation",
+      "desc": "Stop losing deals to slow follow-ups. We build automated sales pipelines that capture every lead, score them based on behavior and fit, trigger personalized nurture sequences, and alert your closers the moment a prospect is ready to buy. From first touch to signed contract, every step tracked, every action automated."
+    },
+    "email": {
+      "title": "Email & SMS Sequences",
+      "desc": "One-size-fits-all blasts don't convert. We design behavior-driven messaging flows that adapt to what each contact does, opens, clicks, downloads, purchases, or goes silent. The right message, on the right channel, at the right time. Fully automated, continuously optimized, and integrated with your existing tools."
+    },
+    "data": {
+      "title": "Data Pipelines & Reporting",
+      "desc": "Raw data is useless if nobody sees it. We build automated pipelines that pull data from every corner of your stack, CRMs, payment platforms, ad accounts, spreadsheets, clean it, transform it, and push it into live dashboards your team can actually use. No more Monday morning report scrambles. No more decisions based on gut feeling."
+    },
+    "leads": {
+      "title": "Lead Generation & Scoring",
+      "desc": "Finding leads is easy. Finding the right leads is the hard part. We build multi-channel prospecting systems that combine outbound outreach, inbound capture, and AI-powered scoring to surface the opportunities most likely to close. Your sales team stops chasing dead ends and starts focusing on the top 20% that drive 80% of revenue."
+    },
+    "internal": {
+      "title": "Internal Workflow Automation",
+      "desc": "Every company has dozens of repetitive internal processes that drain time, onboarding new hires, routing approvals, updating spreadsheets, sending status reports. We connect your HR tools, project management platforms, and communication channels into unified workflows that handle the busywork automatically. Your team gets their hours back."
+    },
+    "ecommerce": {
+      "title": "E-Commerce Automation",
+      "desc": "Scaling an online store means scaling operations, and that breaks fast without automation. We build systems that sync inventory across platforms, route orders to the right warehouse, trigger fulfillment notifications, handle returns, and update your accounting, all in real time. Whether you're on Shopify, Amazon, WooCommerce, or all three."
+    },
+    "api": {
+      "title": "Custom API Integrations",
+      "desc": "Your tools don't talk to each other? We fix that. If it has an API, we can connect it, CRMs, ERPs, payment gateways, legacy systems, government portals, anything. We build custom integrations that sync data bidirectionally, handle edge cases gracefully, and don't break when one system updates. No middleware bloat, no manual exports."
+    },
+    "websites": {
+      "title": "Website Design & Development",
+      "desc": "Your website is your first impression, and your hardest-working salesperson. We build high-performance sites that load fast, look sharp, and convert visitors into leads. Fully integrated with your automation ecosystem so every form submission, chat interaction, and page visit feeds directly into your CRM and triggers the right follow-up."
+    },
+    "allinone": {
+      "title": "All in One",
+      "desc": "Why manage ten systems when you can have one? The All-in-One package connects every automation we offer into a single unified workflow built around your business. Lead generation feeds into your CRM. Your CRM triggers email sequences. Sequences drive bookings. Bookings update your dashboard. Everything talks to everything, and you don't lift a finger. Less manual work, fewer bottlenecks, and an operation that runs like clockwork."
+    }
+  },
+  "results": {
+    "title": "Our Work",
+    "subtitle": "Real results from real projects, plus examples of what we can build for you.",
+    "challenge": "Challenge",
+    "whatWeBuilt": "What We Built",
+    "finance": {
+      "title": "Finance Automation",
+      "challenge": "A global logistics company's finance team was manually sifting through thousands of emails daily to match payables received by email against records in their internal system. The process was repetitive, error-prone, and consumed around 12 hours of the team's day, leading to burnout, mistakes, and missed deadlines.",
+      "solution": "A custom automation that captures all payables received via email and all payables created in their internal system, storing both in dedicated PostgreSQL databases. The system automatically compares both datasets and outputs a categorized SharePoint list showing: full matches, partial matches, records only found in the system, and records only found in emails. We also built a compliance dashboard giving leadership real-time visibility into the finance team's performance and processing speed.",
+      "metric1": "<strong>12 hours/day</strong> saved",
+      "metric2": "<strong>40%</strong> faster processing",
+      "metric3": "Approved by the <strong>CFO</strong>",
+      "metric4": "Near-zero <strong>manual errors</strong>"
+    },
+    "ecommerce": {
+      "title": "E-Commerce Order Engine",
+      "challenge": "A growing online retailer was manually processing orders across three platforms, leading to delays, overselling, and returns.",
+      "solution": "A custom-built pipeline syncing Shopify, Amazon, and warehouse inventory in real time, with automated order routing and fulfillment notifications.",
+      "metric1": "Processing time cut by <strong>85%</strong>",
+      "metric2": "Zero oversells in <strong>6 months</strong>",
+      "metric3": "<strong>12 hours/week</strong> reclaimed"
+    },
+    "leadQual": {
+      "title": "AI Lead Qualification System",
+      "challenge": "A B2B consultancy spent hours manually sorting inbound leads, with sales reps wasting time on low-fit prospects.",
+      "solution": "An AI scoring engine connected to their CRM that auto-qualifies leads based on behavior, company data, and engagement, routing hot leads to closers instantly.",
+      "metric1": "<strong>3x</strong> faster lead response",
+      "metric2": "<strong>40%</strong> increase in close rate",
+      "metric3": "Sales team focused on <strong>top 20%</strong> of leads"
+    },
+    "opsHub": {
+      "title": "Internal Operations Hub",
+      "challenge": "A 50-person company managed onboarding, time-off requests, and project handoffs across email, spreadsheets, and Slack. Nothing was connected.",
+      "solution": "A unified automation layer linking HR tools, Slack, and project management via custom API integrations, with an AI assistant handling routine employee questions.",
+      "metric1": "Onboarding time reduced by <strong>60%</strong>",
+      "metric2": "<strong>90%</strong> fewer manual status updates",
+      "metric3": "Employee satisfaction <strong>up across the board</strong>"
+    }
+  },
+  "cta": {
+    "title": "Ready to Automate?",
+    "subtitle": "Book a free 30-minute call and we'll map out exactly how automation can transform your business.",
+    "button": "Book a Call"
+  },
+  "footer": {
+    "desc": "Next generation tooling for modern infrastructure.",
+    "product": "Product",
+    "features": "Features",
+    "integrations": "Integrations",
+    "contact": "Contact",
+    "changelog": "Changelog",
+    "resources": "Resources",
+    "documentation": "Documentation",
+    "apiReference": "API Reference",
+    "community": "Community",
+    "blog": "Blog",
+    "company": "Company",
+    "aboutUs": "About Us",
+    "careers": "Careers",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "copyright": "\u00a9 2026 Sand Cloud. All rights reserved."
+  },
+  "booking": {
+    "backToSite": "\u2190 Back to site",
+    "title": "Discovery Call",
+    "desc": "30-minute video call with the Sand Cloud team. We'll cover:",
+    "agenda1": "<strong>Needs analysis</strong>, to understand your business and goals",
+    "agenda2": "<strong>Process audit</strong>, to map your current workflow and find opportunities",
+    "agenda3": "<strong>Suggested next steps</strong>, a clear action plan tailored to you",
+    "duration": "\u23f1 30 min",
+    "platform": "\ud83d\udcf9 Google Meet",
+    "formName": "Name *",
+    "formEmail": "Email *",
+    "formCompany": "Company *",
+    "formBrief": "Project Brief *",
+    "formBriefPlaceholder": "Tell us briefly about your project, what you're looking to automate, and what you expect from us...",
+    "submitBtn": "Confirm Booking",
+    "sending": "Sending...",
+    "loadingSlots": "Loading availability...",
+    "noSlots": "No available slots on this day, please try another date.",
+    "slotsError": "Unable to load availability. Please refresh and try again.",
+    "connectionFailed": "Connection failed.",
+    "timeoutError": "Request timed out after 15 seconds.\nCheck that your server is running and the webhook URL is correct.",
+    "corsHint": "\n\nThis is likely a CORS issue. Make sure your webhook has CORS allowed origins set to * or your site domain.",
+    "confirmGreeting": "Hey {name} \ud83d\udc4b",
+    "confirmIntro": "Thanks for your interest in <span style='color:#e8720c'>Sand Cloud</span>. We're excited to connect and show you what we can build for <strong style='color:#ffffff'>{company}</strong>.",
+    "confirmMeetingHeader": "\ud83d\udcc5 YOUR MEETING DETAILS",
+    "confirmDateLabel": "DATE & TIME",
+    "confirmTopicLabel": "TOPIC",
+    "confirmJoinBtn": "\ud83d\udd17 Join Meeting",
+    "confirmMeetNote": "Meeting link will be sent to your email",
+    "confirmFooterTagline": "AI Automation \u00b7 Built for the Future of Business"
+  },
+  "calendar": {
+    "months": ["January","February","March","April","May","June","July","August","September","October","November","December"],
+    "weekdays": ["SUN","MON","TUE","WED","THU","FRI","SAT"],
+    "dateLocale": "en-US"
+  }
+}

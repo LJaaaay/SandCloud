@@ -1,0 +1,196 @@
+{
+  "nav": {
+    "backToSite": "&larr; Volver al sitio"
+  },
+  "hero": {
+    "subtitle": "para el Futuro de los Negocios",
+    "cta": "Agenda una Demo"
+  },
+  "features": {
+    "title": "Lo Que Construimos",
+    "subtitle": "Sistemas de automatizaci\u00f3n de punta a punta impulsados por desarrollo de software, adaptados a c\u00f3mo realmente funciona tu negocio.",
+    "chatbots": {
+      "title": "Chatbots de IA y Asistentes Virtuales",
+      "desc": "Tu negocio no duerme, y tu soporte tampoco deber\u00eda. Construimos agentes conversacionales inteligentes que atienden consultas de clientes, califican leads entrantes, agendan reuniones y escalan problemas complejos a tu equipo, todo sin intervenci\u00f3n humana. Entrenados con tus datos, integrados con tu CRM, y disponibles 24/7 en web, WhatsApp y redes sociales."
+    },
+    "crm": {
+      "title": "Automatizaci\u00f3n de CRM y Ventas",
+      "desc": "Deja de perder negocios por seguimientos lentos. Construimos pipelines de ventas automatizados que capturan cada lead, los califican seg\u00fan comportamiento y ajuste, disparan secuencias de nurturing personalizadas, y alertan a tus closers en el momento en que un prospecto est\u00e1 listo para comprar. Desde el primer contacto hasta el contrato firmado, cada paso rastreado, cada acci\u00f3n automatizada."
+    },
+    "email": {
+      "title": "Secuencias de Email y SMS",
+      "desc": "Los env\u00edos masivos gen\u00e9ricos no convierten. Dise\u00f1amos flujos de mensajer\u00eda basados en comportamiento que se adaptan a lo que cada contacto hace, abre, hace clic, descarga, compra o deja de responder. El mensaje correcto, en el canal correcto, en el momento justo. Totalmente automatizado, optimizado continuamente e integrado con tus herramientas existentes."
+    },
+    "data": {
+      "title": "Pipelines de Datos y Reportes",
+      "desc": "Los datos crudos no sirven si nadie los ve. Construimos pipelines automatizados que extraen datos de cada rinc\u00f3n de tu stack, CRMs, plataformas de pago, cuentas de publicidad, hojas de c\u00e1lculo, los limpian, transforman y env\u00edan a dashboards en vivo que tu equipo realmente puede usar. Sin m\u00e1s reportes de \u00faltimo momento los lunes. Sin m\u00e1s decisiones basadas en intuici\u00f3n."
+    },
+    "leads": {
+      "title": "Generaci\u00f3n y Calificaci\u00f3n de Leads",
+      "desc": "Encontrar leads es f\u00e1cil. Encontrar los leads correctos es lo dif\u00edcil. Construimos sistemas de prospecci\u00f3n multicanal que combinan alcance outbound, captura inbound y scoring con IA para identificar las oportunidades con mayor probabilidad de cierre. Tu equipo de ventas deja de perseguir callejones sin salida y se enfoca en el top 20% que genera el 80% de los ingresos."
+    },
+    "internal": {
+      "title": "Automatizaci\u00f3n de Flujos Internos",
+      "desc": "Toda empresa tiene docenas de procesos internos repetitivos que consumen tiempo, onboarding de nuevos empleados, enrutamiento de aprobaciones, actualizaci\u00f3n de hojas de c\u00e1lculo, env\u00edo de reportes de estado. Conectamos tus herramientas de RRHH, plataformas de gesti\u00f3n de proyectos y canales de comunicaci\u00f3n en flujos unificados que manejan el trabajo tedioso autom\u00e1ticamente. Tu equipo recupera sus horas."
+    },
+    "ecommerce": {
+      "title": "Automatizaci\u00f3n de E-Commerce",
+      "desc": "Escalar una tienda online significa escalar operaciones, y eso se rompe r\u00e1pido sin automatizaci\u00f3n. Construimos sistemas que sincronizan inventario entre plataformas, enrutan pedidos al almac\u00e9n correcto, disparan notificaciones de cumplimiento, gestionan devoluciones y actualizan tu contabilidad, todo en tiempo real. Ya sea que est\u00e9s en Shopify, Amazon, WooCommerce, o en las tres."
+    },
+    "api": {
+      "title": "Integraciones API Personalizadas",
+      "desc": "\u00bfTus herramientas no se comunican entre s\u00ed? Nosotros lo solucionamos. Si tiene una API, podemos conectarla, CRMs, ERPs, pasarelas de pago, sistemas legacy, portales gubernamentales, lo que sea. Construimos integraciones personalizadas que sincronizan datos bidireccionalmente, manejan casos extremos con elegancia y no se rompen cuando un sistema se actualiza. Sin middleware innecesario, sin exportaciones manuales."
+    },
+    "web": {
+      "title": "Dise\u00f1o y Desarrollo Web",
+      "desc": "Tu sitio web es tu primera impresi\u00f3n, y tu vendedor m\u00e1s trabajador. Construimos sitios de alto rendimiento que cargan r\u00e1pido, se ven incre\u00edbles y convierten visitantes en leads. Totalmente integrados con tu ecosistema de automatizaci\u00f3n para que cada env\u00edo de formulario, interacci\u00f3n de chat y visita de p\u00e1gina alimente directamente tu CRM y dispare el seguimiento correcto."
+    },
+    "allinone": {
+      "title": "Todo en Uno",
+      "desc": "\u00bfPor qu\u00e9 gestionar diez sistemas cuando puedes tener uno? El paquete Todo en Uno conecta cada automatizaci\u00f3n que ofrecemos en un \u00fanico flujo unificado construido alrededor de tu negocio. La generaci\u00f3n de leads alimenta tu CRM. Tu CRM dispara secuencias de email. Las secuencias generan reservas. Las reservas actualizan tu dashboard. Todo habla con todo, y t\u00fa no mueves un dedo. Menos trabajo manual, menos cuellos de botella, y una operaci\u00f3n que funciona como reloj."
+    }
+  },
+  "services": {
+    "heading": "Lo Que Construimos",
+    "subtitle": "Sistemas de automatizaci\u00f3n de punta a punta impulsados por desarrollo de software, adaptados a c\u00f3mo realmente funciona tu negocio.",
+    "chatbots": {
+      "title": "Chatbots de IA y Asistentes Virtuales",
+      "desc": "Tu negocio no duerme, y tu soporte tampoco deber\u00eda. Construimos agentes conversacionales inteligentes que atienden consultas de clientes, califican leads entrantes, agendan reuniones y escalan problemas complejos a tu equipo, todo sin intervenci\u00f3n humana. Entrenados con tus datos, integrados con tu CRM, y disponibles 24/7 en web, WhatsApp y redes sociales."
+    },
+    "crm": {
+      "title": "Automatizaci\u00f3n de CRM y Ventas",
+      "desc": "Deja de perder negocios por seguimientos lentos. Construimos pipelines de ventas automatizados que capturan cada lead, los califican seg\u00fan comportamiento y ajuste, disparan secuencias de nurturing personalizadas, y alertan a tus closers en el momento en que un prospecto est\u00e1 listo para comprar. Desde el primer contacto hasta el contrato firmado, cada paso rastreado, cada acci\u00f3n automatizada."
+    },
+    "email": {
+      "title": "Secuencias de Email y SMS",
+      "desc": "Los env\u00edos masivos gen\u00e9ricos no convierten. Dise\u00f1amos flujos de mensajer\u00eda basados en comportamiento que se adaptan a lo que cada contacto hace, abre, hace clic, descarga, compra o deja de responder. El mensaje correcto, en el canal correcto, en el momento justo. Totalmente automatizado, optimizado continuamente e integrado con tus herramientas existentes."
+    },
+    "data": {
+      "title": "Pipelines de Datos y Reportes",
+      "desc": "Los datos crudos no sirven si nadie los ve. Construimos pipelines automatizados que extraen datos de cada rinc\u00f3n de tu stack, CRMs, plataformas de pago, cuentas de publicidad, hojas de c\u00e1lculo, los limpian, transforman y env\u00edan a dashboards en vivo que tu equipo realmente puede usar. Sin m\u00e1s reportes de \u00faltimo momento los lunes. Sin m\u00e1s decisiones basadas en intuici\u00f3n."
+    },
+    "leads": {
+      "title": "Generaci\u00f3n y Calificaci\u00f3n de Leads",
+      "desc": "Encontrar leads es f\u00e1cil. Encontrar los leads correctos es lo dif\u00edcil. Construimos sistemas de prospecci\u00f3n multicanal que combinan alcance outbound, captura inbound y scoring con IA para identificar las oportunidades con mayor probabilidad de cierre. Tu equipo de ventas deja de perseguir callejones sin salida y se enfoca en el top 20% que genera el 80% de los ingresos."
+    },
+    "internal": {
+      "title": "Automatizaci\u00f3n de Flujos Internos",
+      "desc": "Toda empresa tiene docenas de procesos internos repetitivos que consumen tiempo, onboarding de nuevos empleados, enrutamiento de aprobaciones, actualizaci\u00f3n de hojas de c\u00e1lculo, env\u00edo de reportes de estado. Conectamos tus herramientas de RRHH, plataformas de gesti\u00f3n de proyectos y canales de comunicaci\u00f3n en flujos unificados que manejan el trabajo tedioso autom\u00e1ticamente. Tu equipo recupera sus horas."
+    },
+    "ecommerce": {
+      "title": "Automatizaci\u00f3n de E-Commerce",
+      "desc": "Escalar una tienda online significa escalar operaciones, y eso se rompe r\u00e1pido sin automatizaci\u00f3n. Construimos sistemas que sincronizan inventario entre plataformas, enrutan pedidos al almac\u00e9n correcto, disparan notificaciones de cumplimiento, gestionan devoluciones y actualizan tu contabilidad, todo en tiempo real. Ya sea que est\u00e9s en Shopify, Amazon, WooCommerce, o en las tres."
+    },
+    "api": {
+      "title": "Integraciones API Personalizadas",
+      "desc": "\u00bfTus herramientas no se comunican entre s\u00ed? Nosotros lo solucionamos. Si tiene una API, podemos conectarla, CRMs, ERPs, pasarelas de pago, sistemas legacy, portales gubernamentales, lo que sea. Construimos integraciones personalizadas que sincronizan datos bidireccionalmente, manejan casos extremos con elegancia y no se rompen cuando un sistema se actualiza. Sin middleware innecesario, sin exportaciones manuales."
+    },
+    "websites": {
+      "title": "Dise\u00f1o y Desarrollo Web",
+      "desc": "Tu sitio web es tu primera impresi\u00f3n, y tu vendedor m\u00e1s trabajador. Construimos sitios de alto rendimiento que cargan r\u00e1pido, se ven incre\u00edbles y convierten visitantes en leads. Totalmente integrados con tu ecosistema de automatizaci\u00f3n para que cada env\u00edo de formulario, interacci\u00f3n de chat y visita de p\u00e1gina alimente directamente tu CRM y dispare el seguimiento correcto."
+    },
+    "allinone": {
+      "title": "Todo en Uno",
+      "desc": "\u00bfPor qu\u00e9 gestionar diez sistemas cuando puedes tener uno? El paquete Todo en Uno conecta cada automatizaci\u00f3n que ofrecemos en un \u00fanico flujo unificado construido alrededor de tu negocio. La generaci\u00f3n de leads alimenta tu CRM. Tu CRM dispara secuencias de email. Las secuencias generan reservas. Las reservas actualizan tu dashboard. Todo habla con todo, y t\u00fa no mueves un dedo. Menos trabajo manual, menos cuellos de botella, y una operaci\u00f3n que funciona como reloj."
+    }
+  },
+  "results": {
+    "title": "Nuestro Trabajo",
+    "subtitle": "Resultados reales de proyectos reales, m\u00e1s ejemplos de lo que podemos construir para ti.",
+    "challenge": "Desaf\u00edo",
+    "whatWeBuilt": "Lo Que Construimos",
+    "finance": {
+      "title": "Automatizaci\u00f3n Financiera",
+      "challenge": "El equipo de finanzas de una empresa global de log\u00edstica revisaba manualmente miles de correos al d\u00eda para cruzar cuentas por pagar recibidas por email con registros en su sistema interno. El proceso era repetitivo, propenso a errores y consum\u00eda unas 12 horas diarias del equipo, generando agotamiento, errores y plazos incumplidos.",
+      "solution": "Una automatizaci\u00f3n personalizada que captura todas las cuentas por pagar recibidas por email y las creadas en su sistema interno, almacen\u00e1ndolas en bases de datos PostgreSQL dedicadas. El sistema compara autom\u00e1ticamente ambos conjuntos y genera una lista categorizada en SharePoint: coincidencias totales, parciales, registros solo en el sistema y registros solo en emails. Tambi\u00e9n construimos un dashboard de cumplimiento que da visibilidad en tiempo real al liderazgo sobre el rendimiento del equipo de finanzas.",
+      "metric1": "<strong>12 horas/d\u00eda</strong> ahorradas",
+      "metric2": "<strong>40%</strong> m\u00e1s r\u00e1pido",
+      "metric3": "Aprobado por el <strong>CFO</strong>",
+      "metric4": "Errores manuales <strong>casi nulos</strong>"
+    },
+    "ecommerce": {
+      "title": "Motor de Pedidos E-Commerce",
+      "challenge": "Un minorista online en crecimiento procesaba pedidos manualmente en tres plataformas, causando retrasos, sobreventa y devoluciones.",
+      "solution": "Un pipeline a medida que sincroniza Shopify, Amazon e inventario de almac\u00e9n en tiempo real, con enrutamiento autom\u00e1tico de pedidos y notificaciones de cumplimiento.",
+      "metric1": "Tiempo de procesamiento reducido en <strong>85%</strong>",
+      "metric2": "Cero sobreventas en <strong>6 meses</strong>",
+      "metric3": "<strong>12 horas/semana</strong> recuperadas"
+    },
+    "leadQual": {
+      "title": "Sistema de Calificaci\u00f3n de Leads con IA",
+      "challenge": "Una consultor\u00eda B2B pasaba horas clasificando leads entrantes manualmente, con representantes perdiendo tiempo en prospectos de bajo ajuste.",
+      "solution": "Un motor de scoring con IA conectado a su CRM que califica leads autom\u00e1ticamente seg\u00fan comportamiento, datos de empresa y engagement, enrutando leads calientes a los closers instant\u00e1neamente.",
+      "metric1": "Respuesta a leads <strong>3x</strong> m\u00e1s r\u00e1pida",
+      "metric2": "<strong>40%</strong> m\u00e1s tasa de cierre",
+      "metric3": "Equipo de ventas enfocado en el <strong>top 20%</strong> de leads"
+    },
+    "opsHub": {
+      "title": "Hub de Operaciones Internas",
+      "challenge": "Una empresa de 50 personas gestionaba onboarding, solicitudes de vacaciones y traspasos de proyectos entre email, hojas de c\u00e1lculo y Slack. Nada estaba conectado.",
+      "solution": "Una capa de automatizaci\u00f3n unificada que conecta herramientas de RRHH, Slack y gesti\u00f3n de proyectos mediante integraciones API personalizadas, con un asistente de IA que maneja preguntas rutinarias de empleados.",
+      "metric1": "Tiempo de onboarding reducido en <strong>60%</strong>",
+      "metric2": "<strong>90%</strong> menos actualizaciones manuales",
+      "metric3": "Satisfacci\u00f3n del empleado <strong>mejor en todos los aspectos</strong>"
+    }
+  },
+  "cta": {
+    "title": "\u00bfListo para Automatizar?",
+    "subtitle": "Agenda una llamada gratuita de 30 minutos y te mostraremos exactamente c\u00f3mo la automatizaci\u00f3n puede transformar tu negocio.",
+    "button": "Agenda una Llamada"
+  },
+  "footer": {
+    "desc": "Herramientas de nueva generaci\u00f3n para infraestructura moderna.",
+    "product": "Producto",
+    "features": "Funcionalidades",
+    "integrations": "Integraciones",
+    "contact": "Contacto",
+    "changelog": "Changelog",
+    "resources": "Recursos",
+    "documentation": "Documentaci\u00f3n",
+    "apiReference": "Referencia API",
+    "community": "Comunidad",
+    "blog": "Blog",
+    "company": "Empresa",
+    "aboutUs": "Sobre Nosotros",
+    "careers": "Carreras",
+    "privacy": "Pol\u00edtica de Privacidad",
+    "terms": "T\u00e9rminos de Servicio",
+    "copyright": "&copy; 2026 Sand Cloud. Todos los derechos reservados."
+  },
+  "booking": {
+    "backToSite": "&larr; Volver al sitio",
+    "title": "Llamada de Descubrimiento",
+    "desc": "Videollamada de 30 minutos con el equipo de Sand Cloud. Cubriremos:",
+    "agenda1": "<strong>An\u00e1lisis de necesidades</strong>, para entender tu negocio y objetivos",
+    "agenda2": "<strong>Auditor\u00eda de procesos</strong>, para mapear tu flujo actual y encontrar oportunidades",
+    "agenda3": "<strong>Pr\u00f3ximos pasos sugeridos</strong>, un plan de acci\u00f3n claro hecho a tu medida",
+    "duration": "\u23f1 30 min",
+    "platform": "\ud83d\udcf9 Google Meet",
+    "formName": "Nombre *",
+    "formEmail": "Email *",
+    "formCompany": "Empresa *",
+    "formBrief": "Resumen del Proyecto *",
+    "formBriefPlaceholder": "Cu\u00e9ntanos brevemente sobre tu proyecto, qu\u00e9 buscas automatizar y qu\u00e9 esperas de nosotros...",
+    "submitBtn": "Confirmar Reserva",
+    "sending": "Enviando...",
+    "loadingSlots": "Cargando disponibilidad...",
+    "noSlots": "No hay horarios disponibles este d\u00eda, prueba otra fecha.",
+    "slotsError": "No se pudo cargar la disponibilidad. Actualiza la p\u00e1gina e intenta de nuevo.",
+    "connectionFailed": "Conexi\u00f3n fallida.",
+    "timeoutError": "La solicitud expir\u00f3 despu\u00e9s de 15 segundos.\nVerifica que tu servidor est\u00e9 activo y la URL del webhook sea correcta.",
+    "corsHint": "\n\nEsto probablemente es un problema de CORS. Aseg\u00farate de que tu webhook tenga los or\u00edgenes CORS permitidos configurados como * o el dominio de tu sitio.",
+    "confirmGreeting": "Hola {name} \ud83d\udc4b",
+    "confirmIntro": "Gracias por tu inter\u00e9s en <span style='color:#e8720c'>Sand Cloud</span>. Estamos emocionados de conectar y mostrarte lo que podemos construir para <strong style='color:#ffffff'>{company}</strong>.",
+    "confirmMeetingHeader": "\ud83d\udcc5 DETALLES DE TU REUNI\u00d3N",
+    "confirmDateLabel": "FECHA Y HORA",
+    "confirmTopicLabel": "TEMA",
+    "confirmJoinBtn": "\ud83d\udd17 Unirse a la Reuni\u00f3n",
+    "confirmMeetNote": "El enlace de la reuni\u00f3n ser\u00e1 enviado a tu email",
+    "confirmFooterTagline": "Automatizaci\u00f3n con IA \u00b7 Construido para el Futuro de los Negocios"
+  },
+  "calendar": {
+    "months": ["Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio","Agosto","Septiembre","Octubre","Noviembre","Diciembre"],
+    "weekdays": ["DOM","LUN","MAR","MI\u00c9","JUE","VIE","S\u00c1B"],
+    "dateLocale": "es-ES"
+  }
+}
