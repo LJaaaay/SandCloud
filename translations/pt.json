@@ -1,6 +1,6 @@
 {
   "nav": {
-    "backToSite": "&larr; Voltar ao site"
+    "backToSite": "← Voltar ao site"
   },
   "hero": {
     "subtitle": "para o Futuro dos Neg\u00f3cios",
@@ -158,7 +158,7 @@
     "copyright": "&copy; 2026 Sand Cloud. Todos os direitos reservados."
   },
   "booking": {
-    "backToSite": "&larr; Voltar ao site",
+    "backToSite": "← Voltar ao site",
     "title": "Chamada de Descoberta",
     "desc": "Videochamada de 30 minutos com a equipe Sand Cloud. Vamos cobrir:",
     "agenda1": "<strong>An\u00e1lise de necessidades</strong>, para entender seu neg\u00f3cio e objetivos",
