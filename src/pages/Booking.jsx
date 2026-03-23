@@ -65,26 +65,30 @@ export default function Booking() {
         </div>
 
         <div className="booking-widget">
-          <BookingCalendar
-            selectedDate={selectedDate}
-            onDateSelect={handleDateSelect}
-          />
+          {step !== 'success' && step !== 'error' && (
+            <>
+              <BookingCalendar
+                selectedDate={selectedDate}
+                onDateSelect={handleDateSelect}
+              />
 
-          {(step === 'slots' || step === 'form') && selectedDate && (
-            <BookingSlots
-              selectedDate={selectedDate}
-              selectedTime={selectedTime}
-              onSlotSelect={handleSlotSelect}
-            />
-          )}
+              {(step === 'slots' || step === 'form') && selectedDate && (
+                <BookingSlots
+                  selectedDate={selectedDate}
+                  selectedTime={selectedTime}
+                  onSlotSelect={handleSlotSelect}
+                />
+              )}
 
-          {step === 'form' && selectedDate && selectedTime && (
-            <BookingForm
-              selectedDate={selectedDate}
-              selectedTime={selectedTime}
-              onSuccess={handleBookingSuccess}
-              onError={handleBookingError}
-            />
+              {step === 'form' && selectedDate && selectedTime && (
+                <BookingForm
+                  selectedDate={selectedDate}
+                  selectedTime={selectedTime}
+                  onSuccess={handleBookingSuccess}
+                  onError={handleBookingError}
+                />
+              )}
+            </>
           )}
 
           {step === 'success' && bookingData && (
