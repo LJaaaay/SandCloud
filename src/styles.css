@@ -562,10 +562,10 @@ a {
     background: linear-gradient(to bottom, #e8720c 0%, #b44aff 50%, #b44aff 100%);
 }
 
-/* On mobile the line aligns with dot at left edge of padding */
+/* On mobile the line aligns with dot CENTER (1.2rem left-edge + 1.25rem half-width = 2.45rem) */
 @media (max-width: 767px) {
     .act-line-container {
-        left: 1.2rem;
+        left: 2.45rem;
     }
 }
 
@@ -1378,6 +1378,10 @@ footer {
     /* ── 6. TIMELINE (already mobile-first, minor tweaks) ── */
     .act-timeline-entry {
         margin-top: 2.5rem;
+    }
+
+    .act-dot-outer {
+        background: #0a0f28; /* match mobile body bg so line hides behind dot */
     }
 
     .act-content {
