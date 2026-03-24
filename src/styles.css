@@ -1272,20 +1272,24 @@ footer {
         height: auto;
     }
 
-    /* ── 1. LANGUAGE SELECTOR ── */
+    /* ── 1. LANGUAGE SELECTOR — static, flows with page ── */
     .lang-selector {
-        position: fixed;
-        top: 0;
-        right: 0;
-        z-index: 9999;
-        background: #0a0a0a;
+        position: static;
+        z-index: auto;
+        background: transparent;
         backdrop-filter: none;
-        border-radius: 0 0 0 8px;
-        border-top: none;
-        border-right: none;
+        -webkit-backdrop-filter: none;
+        border: none;
+        border-radius: 0;
+        justify-content: flex-end;
+        padding: 12px 16px 0;
     }
 
-    /* ── 2. HIDE VIDEO ON MOBILE ── */
+    /* ── 2. HIDE VIDEO ON MOBILE, match body bg to site tone ── */
+    body {
+        background-color: #0a0f28;
+    }
+
     #bg-video,
     video,
     .video-bg,
@@ -1293,9 +1297,10 @@ footer {
         display: none !important;
     }
 
+    /* Hero inherits from glass-wrapper, no separate bg needed */
     .hero,
     [class*="hero"] {
-        background: #0a0a0a;
+        background: transparent;
     }
 
     /* ── 3. HERO SECTION ── */
@@ -1384,13 +1389,39 @@ footer {
         max-width: 100%;
     }
 
+    /* ── 3. ALL-IN-ONE — wider on mobile ── */
     .act-allinone-content {
         padding: 16px;
+        width: 100%;
+        max-width: 100%;
+        margin: 0;
     }
 
-    /* ── 7. RESULTS / CASE STUDY CARDS ── */
+    .act-desc-allinone {
+        text-align: justify;
+    }
+
+    /* Stretch the timeline entry so all-in-one fills the width */
+    .act-timeline-entry {
+        padding-right: 0;
+    }
+
+    .act-right-col {
+        width: 100%;
+        max-width: 100%;
+    }
+
+    /* ── 7. RESULTS / CASE STUDY CARDS — wider on mobile ── */
+    .results-stack {
+        padding: 0;
+        gap: 16px;
+    }
+
     .result-card {
         padding: 24px 20px;
+        width: calc(100% - 32px);
+        max-width: 100%;
+        margin: 0 auto;
     }
 
     .result-card h3 {
@@ -1516,5 +1547,19 @@ footer {
     /* Booking glass wrapper max-width */
     .glass-wrapper.container.mt-glass {
         max-width: 100%;
+    }
+
+    /* ── 11. JUSTIFIED TEXT in cards & service descriptions ── */
+    .result-block p,
+    .act-desc,
+    .act-desc-allinone,
+    .feature-card p {
+        text-align: justify;
+    }
+
+    /* Widen the results section inner padding */
+    .results.section {
+        padding-left: 16px;
+        padding-right: 16px;
     }
 }
